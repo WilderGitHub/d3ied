@@ -1,0 +1,919 @@
+[
+  {
+    "Sector": "Minería",
+    "Empresa": "Empresa Minera San Cristobal S.A.",
+    "Capital": -82,
+    "Deuda": 0,
+    "Saldo IED": 1018
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Repsol E&P De Bolivia S.A.",
+    "Capital": -13,
+    "Deuda": 0,
+    "Saldo IED": 665
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Repsol Bolivia S.A.",
+    "Capital": -163,
+    "Deuda": 0,
+    "Saldo IED": 635
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Ypfb Andina S.A.",
+    "Capital": -12,
+    "Deuda": 0,
+    "Saldo IED": 621
+  },
+  {
+    "Sector": "Producción Y Distribución De Energía Eléctrica, Gas Y Agua",
+    "Empresa": "Compañía Boliviana De Energía Eléctrica S.A.",
+    "Capital": 8,
+    "Deuda": 0,
+    "Saldo IED": 397
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Pae Oil & Gas Bolivia Ltda (Pae E&P Suc Bolivia)",
+    "Capital": 11,
+    "Deuda": 0,
+    "Saldo IED": 380
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Petrobras Bolivia S.A",
+    "Capital": -1,
+    "Deuda": 0,
+    "Saldo IED": 370
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Total Exploracion &Production Bolivie S.A.",
+    "Capital": -10,
+    "Deuda": 0,
+    "Saldo IED": 337
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Cerveceria Boliviana Nacional",
+    "Capital": 27,
+    "Deuda": -1,
+    "Saldo IED": 301
+  },
+  {
+    "Sector": "Transporte, Almacenamiento Y Comunicaciones",
+    "Empresa": "Gas Transboliviano S.A.",
+    "Capital": 4,
+    "Deuda": 0,
+    "Saldo IED": 288
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Sociedad Boliviana De Cemento  S.A. ( Soboce )",
+    "Capital": 10,
+    "Deuda": 0,
+    "Saldo IED": 278
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Gp Exploración Y Producción Sl - Suc Bolivia",
+    "Capital": 10,
+    "Deuda": -12,
+    "Saldo IED": 255
+  },
+  {
+    "Sector": "Transporte, Almacenamiento Y Comunicaciones",
+    "Empresa": "Telefonia Celular De Bolivia Tigo",
+    "Capital": -13,
+    "Deuda": 10,
+    "Saldo IED": 237
+  },
+  {
+    "Sector": "Bancos",
+    "Empresa": "Banco De Crédito De Bolivia S.A.",
+    "Capital": -8,
+    "Deuda": 0,
+    "Saldo IED": 202
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Industrias De Aceite S.A. Fino",
+    "Capital": -12,
+    "Deuda": 0,
+    "Saldo IED": 188
+  },
+  {
+    "Sector": "Transporte, Almacenamiento Y Comunicaciones",
+    "Empresa": "Nuevatel Pcs De Bolivia S.A.  Viva",
+    "Capital": -20,
+    "Deuda": 0,
+    "Saldo IED": 188
+  },
+  {
+    "Sector": "Bancos",
+    "Empresa": "Banco Solidario",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 172
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Shell (Bg) Bolivia Corporation, Sucursal Bolivia",
+    "Capital": 0,
+    "Deuda": 10,
+    "Saldo IED": 166
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Pdvsa Bolivia S.A.",
+    "Capital": 3,
+    "Deuda": 0,
+    "Saldo IED": 146
+  },
+  {
+    "Sector": "Bancos",
+    "Empresa": "Banco Fie S.A.",
+    "Capital": 6,
+    "Deuda": 0,
+    "Saldo IED": 142
+  },
+  {
+    "Sector": "Bancos",
+    "Empresa": "Banco Prodem S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 136
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Pil Andina S.A.",
+    "Capital": -1,
+    "Deuda": -3,
+    "Saldo IED": 98
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Petrex S.A. Sucursal Bolivia",
+    "Capital": -4,
+    "Deuda": 2,
+    "Saldo IED": 97
+  },
+  {
+    "Sector": "Transporte, Almacenamiento Y Comunicaciones",
+    "Empresa": "Ferroviaria Oriental",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 90
+  },
+  {
+    "Sector": "Minería",
+    "Empresa": "Empresa Minera Manquiri S.A.",
+    "Capital": 5,
+    "Deuda": -4,
+    "Saldo IED": 81
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Imcruz",
+    "Capital": 1,
+    "Deuda": 0,
+    "Saldo IED": 80
+  },
+  {
+    "Sector": "Transporte, Almacenamiento Y Comunicaciones",
+    "Empresa": "Trenes Continentales S.A.",
+    "Capital": 2,
+    "Deuda": 0,
+    "Saldo IED": 79
+  },
+  {
+    "Sector": "Minería",
+    "Empresa": "Sinchi Wayra S.A.",
+    "Capital": -3,
+    "Deuda":32,
+    "Saldo IED": 77
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Hansa Ltda.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 75
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Unilever Andina Bolivia S.A.",
+    "Capital": 3,
+    "Deuda": 0,
+    "Saldo IED": 67
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Itacamba Cemento S.A.",
+    "Capital": -4,
+    "Deuda": 0,
+    "Saldo IED": 60
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Finning Bolivia S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 58
+  },
+  {
+    "Sector": "Producción Y Distribución De Energía Eléctrica, Gas Y Agua",
+    "Empresa": "Hidroelectrica Boliviana",
+    "Capital": 1,
+    "Deuda": 0,
+    "Saldo IED": 53
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Praxair Bolivia Srl",
+    "Capital": 1,
+    "Deuda": 0,
+    "Saldo IED": 48
+  },
+  {
+    "Sector": "Minería",
+    "Empresa": "Pan American Silver (Bolivia) S.A.",
+    "Capital": -3,
+    "Deuda": 0,
+    "Saldo IED": 46
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Comversa Sa. (Compañía De Inversiones Sa.) Holding",
+    "Capital": -1,
+    "Deuda": 0,
+    "Saldo IED": 43
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Compañía Industrial De Tabacos S.A.",
+    "Capital": 3,
+    "Deuda": 0,
+    "Saldo IED": 42
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Embol S.A.",
+    "Capital": -18,
+    "Deuda": 0,
+    "Saldo IED": 39
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Huawei Technologies (Bolivia) S.R.L.",
+    "Capital": 21,
+    "Deuda": 0,
+    "Saldo IED": 38
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Kimberly Bolivia S.A.",
+    "Capital": 2,
+    "Deuda": 2,
+    "Saldo IED": 37
+  },
+  {
+    "Sector": "Transporte, Almacenamiento Y Comunicaciones",
+    "Empresa": "Gasoriente Boliviano Ltda. Gob Ltda.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 36
+  },
+  {
+    "Sector": "Transporte, Almacenamiento Y Comunicaciones",
+    "Empresa": "Axs Bolivia S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 36
+  },
+  {
+    "Sector": "Minería",
+    "Empresa": "Sociedad Minera Illapa S.A.",
+    "Capital": -18,
+    "Deuda": 0,
+    "Saldo IED": 35
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Laboratorios Bago Ltda",
+    "Capital": 2,
+    "Deuda": 0,
+    "Saldo IED": 35
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Cargill Bolivia S.A.",
+    "Capital": 3,
+    "Deuda": -4,
+    "Saldo IED": 34
+  },
+  {
+    "Sector": "Producción Y Distribución De Energía Eléctrica, Gas Y Agua",
+    "Empresa": "Interconexión Eléctrica Isa Bolivia S.A.",
+    "Capital": -3,
+    "Deuda": 0,
+    "Saldo IED": 31
+  },
+  {
+    "Sector": "Compañías De Seguro",
+    "Empresa": "Alianza Compañía De Seguros Y Reaseguros S.A.E.M.A.",
+    "Capital": 3,
+    "Deuda": 0,
+    "Saldo IED": 30
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Air Bp Bolivia S.A.",
+    "Capital": -1,
+    "Deuda": 0,
+    "Saldo IED": 28
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Plasmar S.A. (Tigre)",
+    "Capital": 4,
+    "Deuda": 0,
+    "Saldo IED": 27
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Baker Hughes Int. Branches Inc. Suc. Bolivia (Div. Atlas)",
+    "Capital": 7,
+    "Deuda": 0,
+    "Saldo IED": 26
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Pluspetrol Bolivia Corporation S.A.",
+    "Capital": 1,
+    "Deuda": 1,
+    "Saldo IED": 24
+  },
+  {
+    "Sector": "Transporte, Almacenamiento Y Comunicaciones",
+    "Empresa": "Gwb Inversiones S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 22
+  },
+  {
+    "Sector": "Otras Sociedades De Intermediación Financiera",
+    "Empresa": "Banco De Desarrollo Productivo Sam - Bdp",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 18
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "La Papelera",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 16
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Archer Dls Corporation",
+    "Capital": -1,
+    "Deuda": 0,
+    "Saldo IED": 15
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Pharma Investi Srl",
+    "Capital": 1,
+    "Deuda": 0,
+    "Saldo IED": 13
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Pinturas Coral De Bolivia Ltda.",
+    "Capital": 1,
+    "Deuda": 0,
+    "Saldo IED": 13
+  },
+  {
+    "Sector": "Fondos De Pensiones",
+    "Empresa": "Futuro De Bolivia Afp",
+    "Capital": -2,
+    "Deuda": 0,
+    "Saldo IED": 12
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Maxam Fanexa S.A.M.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 11
+  },
+  {
+    "Sector": "Producción Y Distribución De Energía Eléctrica, Gas Y Agua",
+    "Empresa": "San Cristobal Transmisora De Electricidad",
+    "Capital": 1,
+    "Deuda": 0,
+    "Saldo IED": 11
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Vintage Petroleum Boliviana Ltd. Sucursal Bolivia",
+    "Capital": 1,
+    "Deuda": 0,
+    "Saldo IED": 11
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Tecnofarma S.A.",
+    "Capital": 2,
+    "Deuda": 0,
+    "Saldo IED": 11
+  },
+  {
+    "Sector": "Compañías De Seguro",
+    "Empresa": "Alianza Vida Seguros Y Reaseguros S.A.",
+    "Capital": 1,
+    "Deuda": 0,
+    "Saldo IED": 9
+  },
+  {
+    "Sector": "Transporte, Almacenamiento Y Comunicaciones",
+    "Empresa": "Empresa De Servicio De Pago Movil Efectivo",
+    "Capital": 1,
+    "Deuda": 0,
+    "Saldo IED": 9
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Productos Sancela Del Perú (Sucursal Bolivia)",
+    "Capital": 0,
+    "Deuda": -1,
+    "Saldo IED": 8
+  },
+  {
+    "Sector": "Compañías De Seguro",
+    "Empresa": "Bupa Insurance Bolivia S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 7
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Dekma Bolivia S.A.",
+    "Capital": -1,
+    "Deuda": -1,
+    "Saldo IED": 7
+  },
+  {
+    "Sector": "Fondos De Pensiones",
+    "Empresa": "Bbva Previsión Afp S.A.",
+    "Capital": 2,
+    "Deuda": 0,
+    "Saldo IED": 7
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Empresa De Servicios Inmobiliarios Y De Mantenimiento S.A. Esimsa",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 7
+  },
+  {
+    "Sector": "Transporte, Almacenamiento Y Comunicaciones",
+    "Empresa": "Giros Electrónicos Elegir S.R.L.",
+    "Capital": -1,
+    "Deuda": 0,
+    "Saldo IED": 7
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Agricultura Avanzada De America Internacional Corporation Aaa",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 6
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Arcor Alimentos Bolivia Sa",
+    "Capital": 1,
+    "Deuda": -1,
+    "Saldo IED": 6
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Yanbal De Bolivia S.A.",
+    "Capital": -3,
+    "Deuda": 0,
+    "Saldo IED": 6
+  },
+  {
+    "Sector": "Compañías De Seguro",
+    "Empresa": "Crediseguro S.A. Seguros Personales",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 6
+  },
+  {
+    "Sector": "Minería",
+    "Empresa": "Empresa Minera Paititi S.A.",
+    "Capital": -4,
+    "Deuda": 10,
+    "Saldo IED": 5
+  },
+  {
+    "Sector": "Bancos",
+    "Empresa": "Banco Fortaleza",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 5
+  },
+  {
+    "Sector": "Producción Y Distribución De Energía Eléctrica, Gas Y Agua",
+    "Empresa": "Sociedad Industrial Energética Y Comercial Andina S.A. \"Synergia S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 4
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Omnilife De Bolivia S.A.",
+    "Capital": 1,
+    "Deuda": 0,
+    "Saldo IED": 4
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Colgate Palmolive Bolivia Ltda.",
+    "Capital": 1,
+    "Deuda": 1,
+    "Saldo IED": 4
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Arysta Lifescience Srl",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 4
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Brinks Bolivia",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 3
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Bat Bolivia Srl",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 3
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Mondelez De Alimentos",
+    "Capital": 0,
+    "Deuda": -1,
+    "Saldo IED": 3
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Brenntag Bolivia Srl",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 3
+  },
+  {
+    "Sector": "Bancos",
+    "Empresa": "Banco Pyme De La Comunidad S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 2
+  },
+  {
+    "Sector": "Construcción",
+    "Empresa": "Inversiones Triángulo De Oro S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 2
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Antalis Bolivia Srl",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 2
+  },
+  {
+    "Sector": "Compañías De Seguro",
+    "Empresa": "Crediseguro S.A. Seguros Generales",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 2
+  },
+  {
+    "Sector": "Minería",
+    "Empresa": "Dimentional Sodalite Ltda. (Diesse Ltda.)",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 2
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Serviagricola Del Sur S.R.L.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Bitumina Industrial Bolivia S.A.",
+    "Capital": 0,
+    "Deuda": 2,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Glencore Bolivia Ltda.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Gsh Bolivia Srl",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Smc Pneumatics Bolivia Srl",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Sabre International Llc Bolivia",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Inversiones Dormeson Bolivia S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Otras Sociedades De Intermediación Financiera",
+    "Empresa": "Bisa Leasing",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Jacha Inti Industrial S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Epiroc S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Samsung Electronics Chile Ldta. Suc. Bolivia",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Minería",
+    "Empresa": "Compañía Minera Amazona Bolivia - Comabol S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Transporte, Almacenamiento Y Comunicaciones",
+    "Empresa": "Mediterranean Shipping Company Bolivia Ltda.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Construcción",
+    "Empresa": "Construcciones Sepcon Srl",
+    "Capital": 0,
+    "Deuda": 1,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Facturación Inmediata Fimm Srl",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Otras Sociedades De Intermediación Financiera",
+    "Empresa": "Inversiones Credicorp Bolivia S.A.",
+    "Capital": -3,
+    "Deuda": 0,
+    "Saldo IED": 1
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Avantica Technologies",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Transporte, Almacenamiento Y Comunicaciones",
+    "Empresa": "Kuehne + Nagel Ltda.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Biogenesis Bago Bolivia S.A.",
+    "Capital": 0,
+    "Deuda": 1,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Equanet S.R.L.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Nexus Technology Bolivia S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Tetrapack",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Inclam S.A. Sucursal Bolivia",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Construcción",
+    "Empresa": "Construcciones Rubau Sa Sucursal Bolivia",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Compañías De Seguro",
+    "Empresa": "Olsa Bolivia Corredores De Reaseguros S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Servicios Comunitarios, Sociales Y Personales",
+    "Empresa": "Csra Bolivia Srl",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Servicios Jardecom S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Construcción",
+    "Empresa": "Telefericos Doppelmayer Bolivia S.A.",
+    "Capital": 1,
+    "Deuda": 3,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Qsi Industrial  Bolivia S.A.",
+    "Capital": -2,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Engels Merkel",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Bancos",
+    "Empresa": "Banco Pyme Ecofuturo",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Geolog Mud Logging Bolivia Ltda. (New 2012)",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Prointec S.A. Sucursal Bolivia",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Cisneros Interactive Bolivia S.R.L.",
+    "Capital": -1,
+    "Deuda": 0,
+    "Saldo IED": 0
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "La Sante S.R.L.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": -1
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Comercializadora Emasa Bolivia S.R.L.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": -1
+  },
+  {
+    "Sector": "Comercio Al Por Mayor Y Menor;  Reparación De Automotores",
+    "Empresa": "Importadora Y Distribuidora Intb Srl",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": -1
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Repsol Exploracion Atlas",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": -1
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Ipsos Apoyo Y Opinion Y Mercado Bolivia S.A.",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": -2
+  },
+  {
+    "Sector": "Industria Manufacturera",
+    "Empresa": "Ingener S.A. Sucursal Bolivia",
+    "Capital": 0,
+    "Deuda": 0,
+    "Saldo IED": -2
+  },
+  {
+    "Sector": "Servicios Inmobiliarios, Empresariales Y De Alquiler",
+    "Empresa": "Tsk Electronica Y Electricidad S.A. Sucursal Bolivia",
+    "Capital": 8,
+    "Deuda": 10,
+    "Saldo IED": -32
+  },
+  {
+    "Sector": "Hidrocarburos",
+    "Empresa": "Sinopec International Petroleum Service Ecuador S.A (Sucursal Bolivia)",
+    "Capital": -1,
+    "Deuda": 2,
+    "Saldo IED": -88
+  }
+]
