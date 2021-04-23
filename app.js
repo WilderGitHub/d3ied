@@ -100,7 +100,7 @@ d3.json("datos1.json").then(function (data) {
   const leyendas = d3
     .select("#contenedor")
     .append("svg")
-    .attr("transform", "translate(-300,-100)")
+    .attr("transform", "translate(-200,100)")
 
     .attr("width", 500)
     .attr("height", 500)
